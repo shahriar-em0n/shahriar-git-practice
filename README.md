@@ -1,4 +1,4 @@
-# 🚗 Basic Car Project
+# 🚗 Basic Car Project using golang
 
 A simple command-line based car project written in Go.  
 This project interacts with the user to gather basic information about a car purchase and displays the details.
